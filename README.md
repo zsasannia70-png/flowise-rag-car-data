@@ -3,6 +3,11 @@
 ## Abstract
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using Flowise. It enables conversational question-answering over PDF documents by extracting, splitting, and embedding the text into an in-memory vector store. This approach allows users or applications to accurately retrieve contextual information from uploaded car data PDFs while maintaining a conversational history for follow-up questions. It holds significant academic and business value by streamlining data extraction from reports, manuals, and specifications without manual searching.
 
+<img width="1827" height="892" alt="image" src="https://github.com/user-attachments/assets/3a620d2e-7e1a-4611-925e-8e899872e3ba" />
+<img width="497" height="716" alt="image" src="https://github.com/user-attachments/assets/dbe79c1d-ce07-4e32-bfb7-8ffe391708bb" />
+
+
+
 ## Architecture
 This Flowise RAG workflow combines Several components to achieve reliable document retrieval and conversational QA:
 

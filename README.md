@@ -1,5 +1,11 @@
 # Car Data Chatflow - Flowise RAG Pipeline
-Link: "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+<script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "95aa42a5-f6fd-4caa-86ff-eccc10c73b1e",
+        apiHost: "https://cloud.flowiseai.com",
+    })
+</script>
 ## Abstract
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using Flowise. It enables conversational question-answering over PDF documents by extracting, splitting, and embedding the text into an in-memory vector store. This approach allows users or applications to accurately retrieve contextual information from uploaded car data PDFs while maintaining a conversational history for follow-up questions. It holds significant academic and business value by streamlining data extraction from reports, manuals, and specifications without manual searching.
 

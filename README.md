@@ -1,7 +1,7 @@
 # Car Data Chatflow - Flowise RAG Pipeline
 ## 🚀 Live Demo
 You can test and interact with the chatbot directly via the link below:
-👉 [Click here to Open Chatbot][https://cloud.flowiseai.com/chatbot/95aa42a5-f6fd-4caa-86ff-eccc10c73b1e]. 
+👉 Click here to Open Chatbot: https://cloud.flowiseai.com/chatbot/95aa42a5-f6fd-4caa-86ff-eccc10c73b1e. 
 
 ## 🛠️ Project Inspection
 To see how the logic and nodes are configured:
